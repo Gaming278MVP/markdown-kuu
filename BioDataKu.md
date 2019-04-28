@@ -14,4 +14,6 @@
 ----------------
 # More
 
-[Website](https://angkatan24.glitch.me) || By [@npmbots], [@Gaming278MVP], [@Gaming278WENAK]
+[**Website**](https://angkatan24.glitch.me) || **By [@npmbots](https://github.com/npmbots) , [@Gaming278MVP](https://github.com/Gaming278MVP) , [@Gaming278WENAK](https://github.com/Gaming278WENAK)**
+
+
